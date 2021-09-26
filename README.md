@@ -1,5 +1,5 @@
 # PortfolioWebsite
 A Portfolio Website to showcase my projects and my skills.<br>
-Tech Stack:
-HTML5
+Tech Stack:<br>
+HTML5<br>
 CSS
