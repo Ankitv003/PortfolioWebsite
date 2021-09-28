@@ -133,3 +133,15 @@ font-size: 1.25rem;
     color: #000000;
     font-size: 1rem;
     padding: 20px 0;
+}
+
+/* blog */
+
+.list-non-bullet .small{
+    color: var(--grey);
+    font-size: medium;
+}
+.para{
+    color: var(--grey);
+    font-size: 1.25rem;
+}
